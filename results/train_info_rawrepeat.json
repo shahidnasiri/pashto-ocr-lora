@@ -1,0 +1,8 @@
+{
+ "mode": "rawrepeat",
+ "train_samples": 100000,
+ "steps": 12500,
+ "minutes": 2359.577027908961,
+ "gpu": "NVIDIA GeForce RTX 5080",
+ "peak_gpu_gb": 29.533203125
+}

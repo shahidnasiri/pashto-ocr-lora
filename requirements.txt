@@ -1,0 +1,23 @@
+# Install PyTorch separately first, matching your CUDA version, e.g.:
+# pip install torch==2.10.0 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
+unsloth
+unsloth_zoo
+bitsandbytes
+accelerate
+xformers
+sentencepiece
+protobuf
+hf_transfer
+huggingface_hub>=0.34.0
+transformers
+datasets==4.3.0
+rapidfuzz
+albumentations
+opencv-python
+pandas
+numpy
+matplotlib
+tqdm
+arabic-reshaper
+python-bidi
+Pillow

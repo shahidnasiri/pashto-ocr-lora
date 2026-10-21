@@ -1,0 +1,8 @@
+{
+ "mode": "raw1x",
+ "train_samples": 8500,
+ "steps": 1063,
+ "minutes": 178.74959195454915,
+ "gpu": "NVIDIA GeForce RTX 5080",
+ "peak_gpu_gb": 29.494140625
+}

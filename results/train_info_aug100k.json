@@ -1,0 +1,8 @@
+{
+ "mode": "aug100k",
+ "train_samples": 100000,
+ "steps": 12500,
+ "minutes": 1355.7038126031557,
+ "gpu": "NVIDIA GeForce RTX 5080",
+ "peak_gpu_gb": 25.40234375
+}

@@ -1,0 +1,17 @@
+# Data too large or not yours to redistribute — see README for how to obtain it
+experiments/
+PashtoOCR/
+DeepSeek-OCR/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secrets
+.env
+*.token
+
+# OS
+.DS_Store
+Thumbs.db
